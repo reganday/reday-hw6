@@ -6,12 +6,8 @@
         <title> Git Test Page </title>
         <link rel="stylesheet" type="text/css" href="./css/stylesheet.css" />
     </head>
-    
-<body>
-    <div class="container">
-        <p>Hello world!</p>
-    </div>
 
+<body>
     <div>
         <p>I am a student at the University of Iowa.</p>
     </div>
